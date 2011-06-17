@@ -89,8 +89,6 @@ To Do:
 		$date_field_object = $mph_var['args'];
 		$date_field_object->df_create_fields();
 	}
-	
-
 
 
 /* Save my date field data */
