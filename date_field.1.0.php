@@ -3,7 +3,7 @@
 Plugin Name: Date Field
 Plugin URI: http://matth.eu/wordpress-date-field-plugin 
 Description: Adds a custom field for adding dates to posts. The dates are stored as a unix timestamp. Version 1.0 is NOT COMPATIBLE with previous versions.
-Version: 1.0
+Version: 1.1
 Author: Matthew Haines-Young
 Author URI: http://matth.eu
 
@@ -12,7 +12,7 @@ To Do:
 	Extend to other fields?
 */
 
-/*	Copyright YEAR  PLUGIN_AUTHOR_NAME  (email : PLUGIN AUTHOR EMAIL)
+/*	Copyright YEAR  Matthew Haines-Young  (email : mail@matth.eu)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
