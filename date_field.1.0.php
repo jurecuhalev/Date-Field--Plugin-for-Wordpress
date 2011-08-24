@@ -145,7 +145,7 @@ function df_save_fields( $post_id ) {
 					$year = $_POST[ $df_box->df_field_basename($field['name']) . '_year'];
 					$hour = $_POST[ $df_box->df_field_basename($field['name']) . '_hour'];
 					if( !$hour ) $hour = '00';
-					$minute = $_POST[ $df_box->df_field_basename($field) . '_minute'];
+					$minute = $_POST[ $df_box->df_field_basename($field['name']) . '_minute'];
 					if( !$minute ) $minute = '00';
 					
 					if( $day != 0 && $month != 0 && $year != '' && is_numeric($year) ) {
